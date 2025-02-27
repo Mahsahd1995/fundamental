@@ -52,7 +52,7 @@ This project aims to analyze social media data using Machine Learning techniques
 - Expand dataset for more diverse insights.
 
 ## 📝 Author
-Your Name – [LinkedIn Profile](https://www.linkedin.com/in/yourprofile/) | [GitHub](https://github.com/YourUsername)
+Your Name –  https://www.linkedin.com/in/mahshad-salari-78b4b6210/| https://github.com/Mahsahd1995
 
 ## 📜 License
 This project is licensed under the MIT License.
